@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #014b01;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 200px;
+  }
+  h1{
+    color: goldenrod;
+    font-size: 40px;
+    
+  }
+  #message-el{
+    font-size: 30px;
+    font-style: italic;
+  }
+  p{
+    font-size: 20px;
+    font-weight: bold;
+    
+  }
+  button{
+    color: #016f32;
+    width: 150px;
+    height: 30px;
+    border-style: none;
+    background-color: goldenrod;
+    font-weight: bold;
+  
+    
+  }
+  
